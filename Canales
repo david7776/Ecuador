@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Canal Uno" tvg-logo="http://l3d.us:8080/images/1eaa8bb195869a23f081acbb5bf08527.png" group-title="TV | Ecuador",EC| Canal Uno
+http://l3d.us:8080/Kerly/QdBaKywVnc/11022
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Canal Uno FHD" tvg-logo="http://l3d.us:8080/images/1eaa8bb195869a23f081acbb5bf08527.png" group-title="TV | Ecuador",EC| Canal Uno FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/153886
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Canal Uno HD" tvg-logo="http://l3d.us:8080/images/1eaa8bb195869a23f081acbb5bf08527.png" group-title="TV | Ecuador",EC| Canal Uno HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/11046
+#EXTINF:-1 tvg-id="" tvg-name="EC| Canela TV" tvg-logo="http://l3d.us:8080/images/f8566095201bf3ab12442e3db962b07c.png" group-title="TV | Ecuador",EC| Canela TV
+http://l3d.us:8080/Kerly/QdBaKywVnc/176954
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Canela TV HQ" tvg-logo="http://l3d.us:8080/images/f8566095201bf3ab12442e3db962b07c.png" group-title="TV | Ecuador",EC| Canela TV HQ
+http://l3d.us:8080/Kerly/QdBaKywVnc/147950
+#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports
+http://l3d.us:8080/Kerly/QdBaKywVnc/11047
+#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports 2 HD" tvg-logo="http://l3d.us:8080/images/4907fe4582f465f8ef13ec7a8c6b4bbe.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports 2 HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/11025
+#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports HD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/11024
+#EXTINF:-1 tvg-id="directvsports1.ec" tvg-name="EC| Directv Sports Plus FHD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports Plus FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/176955
+#EXTINF:-1 tvg-id="" tvg-name="EC| Directv Sports Plus HD" tvg-logo="http://l3d.us:8080/images/3e3b995fe19c7c1ab54f8a302ae04b94.png" group-title="TV | Ecuador (Deportes)",EC| Directv Sports Plus HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/11026
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| Ecuador TV" tvg-logo="https://i.ibb.co/nRpvCzY/ecuadortv.png" group-title="TV | Ecuador",EC| Ecuador TV
+http://l3d.us:8080/Kerly/QdBaKywVnc/11029
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| Ecuador TV FHD" tvg-logo="http://l3d.us:8080/images/fb67ad8c0abb37ff12112b9537297311.png" group-title="TV | Ecuador",EC| Ecuador TV FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/153889
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| Ecuador TV HD" tvg-logo="http://l3d.us:8080/images/fb67ad8c0abb37ff12112b9537297311.png" group-title="TV | Ecuador",EC| Ecuador TV HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/11030
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| Ecuavisa" tvg-logo="http://l3d.us:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",EC| Ecuavisa
+http://l3d.us:8080/Kerly/QdBaKywVnc/11031
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| Ecuavisa FHD" tvg-logo="http://l3d.us:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",EC| Ecuavisa FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/153885
+#EXTINF:-1 tvg-id="ecuavisa.ec" tvg-name="EC| Ecuavisa HD" tvg-logo="http://l3d.us:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",EC| Ecuavisa HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/11032
+#EXTINF:-1 tvg-id="ecuavisainternacional.ec" tvg-name="EC| Ecuavisa Internacional" tvg-logo="http://l3d.us:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",EC| Ecuavisa Internacional
+http://l3d.us:8080/Kerly/QdBaKywVnc/11033
+#EXTINF:-1 tvg-id="ecuavisainternacional.ec" tvg-name="EC| Ecuavisa Internacional HD" tvg-logo="https://i.ibb.co/1mw4h8v/ecuavisa.png" group-title="TV | Ecuador",EC| Ecuavisa Internacional HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/147959
+#EXTINF:-1 tvg-id="" tvg-name="EC| Ecuavisa Sierra" tvg-logo="http://l3d.us:8080/images/a3fff5343075870074dbe3092d16656b.png" group-title="TV | Ecuador",EC| Ecuavisa Sierra
+http://l3d.us:8080/Kerly/QdBaKywVnc/176963
+#EXTINF:-1 tvg-id="" tvg-name="EC| El Canal del Futbol FHD" tvg-logo="http://l3d.us:8080/images/0b7bbd6fadef091df64c7555b5e939f8.png" group-title="TV | Ecuador (Deportes)",EC| El Canal del Futbol FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/10394
+#EXTINF:-1 tvg-id="" tvg-name="EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)" tvg-logo="http://l3d.us:8080/images/0b7bbd6fadef091df64c7555b5e939f8.png" group-title="TV | Ecuador (Deportes)",EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)
+http://l3d.us:8080/Kerly/QdBaKywVnc/176964
+#EXTINF:-1 tvg-id="" tvg-name="EC| El Canal del Futbol HD" tvg-logo="http://l3d.us:8080/images/0b7bbd6fadef091df64c7555b5e939f8.png" group-title="TV | Ecuador (Deportes)",EC| El Canal del Futbol HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/10395
+#EXTINF:-1 tvg-id="" tvg-name="EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)" tvg-logo="http://l3d.us:8080/images/0b7bbd6fadef091df64c7555b5e939f8.png" group-title="TV | Ecuador (Deportes)",EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)
+http://l3d.us:8080/Kerly/QdBaKywVnc/176965
+#EXTINF:-1 tvg-id="" tvg-name="EC| El Canal del Futbol SD" tvg-logo="http://l3d.us:8080/images/0b7bbd6fadef091df64c7555b5e939f8.png" group-title="TV | Ecuador (Deportes)",EC| El Canal del Futbol SD
+http://l3d.us:8080/Kerly/QdBaKywVnc/10396
+#EXTINF:-1 tvg-id="" tvg-name="EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)" tvg-logo="http://l3d.us:8080/images/0b7bbd6fadef091df64c7555b5e939f8.png" group-title="TV | Ecuador (Deportes)",EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)
+http://l3d.us:8080/Kerly/QdBaKywVnc/176966
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Gamavision" tvg-logo="http://l3d.us:8080/images/234167571b05ff8b71fe36d4b6a453ed.png" group-title="TV | Ecuador",EC| Gamavision
+http://l3d.us:8080/Kerly/QdBaKywVnc/11034
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Gamavision FHD" tvg-logo="http://l3d.us:8080/images/234167571b05ff8b71fe36d4b6a453ed.png" group-title="TV | Ecuador",EC| Gamavision FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/153888
+#EXTINF:-1 tvg-id="canaluno.ec" tvg-name="EC| Gamavision HD" tvg-logo="http://l3d.us:8080/images/234167571b05ff8b71fe36d4b6a453ed.png" group-title="TV | Ecuador",EC| Gamavision HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/147955
+#EXTINF:-1 tvg-id="" tvg-name="EC| Gol TV (MOVIL)" tvg-logo="http://l3d.us:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="TV | Ecuador (Deportes)",EC| Gol TV (MOVIL)
+http://l3d.us:8080/Kerly/QdBaKywVnc/180467
+#EXTINF:-1 tvg-id="" tvg-name="EC| GOL TV FHD" tvg-logo="http://l3d.us:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="TV | Ecuador (Deportes)",EC| GOL TV FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/180460
+#EXTINF:-1 tvg-id="" tvg-name="EC| GOL TV HD" tvg-logo="http://l3d.us:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="TV | Ecuador (Deportes)",EC| GOL TV HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/180461
+#EXTINF:-1 tvg-id="" tvg-name="EC| Gol TV HD" tvg-logo="http://l3d.us:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="TV | Ecuador (Deportes)",EC| Gol TV HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/180469
+#EXTINF:-1 tvg-id="" tvg-name="EC| Gol TV | Ecuador" tvg-logo="http://l3d.us:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="TV | Ecuador (Deportes)",EC| Gol TV | Ecuador
+http://l3d.us:8080/Kerly/QdBaKywVnc/180453
+#EXTINF:-1 tvg-id="" tvg-name="EC| GOLTV ECUADOR HD" tvg-logo="http://l3d.us:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="TV | Ecuador (Deportes)",EC| GOLTV ECUADOR HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/180475
+#EXTINF:-1 tvg-id="oromar.ec" tvg-name="EC| Oromar Television" tvg-logo="http://l3d.us:8080/images/ffe842654c551c19652b879a16f7ffb6.png" group-title="TV | Ecuador",EC| Oromar Television
+http://l3d.us:8080/Kerly/QdBaKywVnc/147956
+#EXTINF:-1 tvg-id="oromar.ec" tvg-name="EC| Oromar Television FHD" tvg-logo="http://l3d.us:8080/images/ffe842654c551c19652b879a16f7ffb6.png" group-title="TV | Ecuador",EC| Oromar Television FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/176967
+#EXTINF:-1 tvg-id="oromar.ec" tvg-name="EC| Oromar Television HD" tvg-logo="https://i.ibb.co/q5DgjbB/oromar.png" group-title="TV | Ecuador",EC| Oromar Television HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/11035
+#EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS" tvg-logo="http://l3d.us:8080/images/9321de6b7ef6b1afa10d8fd803fbd437.png" group-title="TV | Ecuador",EC| RTS
+http://l3d.us:8080/Kerly/QdBaKywVnc/11037
+#EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS FHD" tvg-logo="http://l3d.us:8080/images/9321de6b7ef6b1afa10d8fd803fbd437.png" group-title="TV | Ecuador",EC| RTS FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/153887
+#EXTINF:-1 tvg-id="rts.ec" tvg-name="EC| RTS HD" tvg-logo="http://l3d.us:8080/images/9321de6b7ef6b1afa10d8fd803fbd437.png" group-title="TV | Ecuador",EC| RTS HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/11036
+#EXTINF:-1 tvg-id="" tvg-name="EC| RTU" tvg-logo="http://l3d.us:8080/images/ae52a2af095444c2049a59624f5ab1db.png" group-title="TV | Ecuador",EC| RTU
+http://l3d.us:8080/Kerly/QdBaKywVnc/153890
+#EXTINF:-1 tvg-id="tctelevision.ec" tvg-name="EC| TC Television" tvg-logo="http://l3d.us:8080/images/5c9a56aac66d085c563388abcafbe879.png" group-title="TV | Ecuador",EC| TC Television
+http://l3d.us:8080/Kerly/QdBaKywVnc/11038
+#EXTINF:-1 tvg-id="tctelevision.ec" tvg-name="EC| TC Television FHD" tvg-logo="http://l3d.us:8080/images/5c9a56aac66d085c563388abcafbe879.png" group-title="TV | Ecuador",EC| TC Television FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/172233
+#EXTINF:-1 tvg-id="tctelevision.ec" tvg-name="EC| TC Television HD" tvg-logo="http://l3d.us:8080/images/5c9a56aac66d085c563388abcafbe879.png" group-title="TV | Ecuador",EC| TC Television HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/11039
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| Teleamazonas" tvg-logo="http://l3d.us:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| Teleamazonas
+http://l3d.us:8080/Kerly/QdBaKywVnc/11040
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| Teleamazonas FHD" tvg-logo="http://l3d.us:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| Teleamazonas FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/153891
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| Teleamazonas HD" tvg-logo="http://l3d.us:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| Teleamazonas HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/11043
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| Teleamazonas Quito" tvg-logo="http://l3d.us:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| Teleamazonas Quito
+http://l3d.us:8080/Kerly/QdBaKywVnc/147954
+#EXTINF:-1 tvg-id="" tvg-name="EC| Teleamazonas Quito FHD" tvg-logo="http://l3d.us:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| Teleamazonas Quito FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/153892
+#EXTINF:-1 tvg-id="teleamazonas.ec" tvg-name="EC| Teleamazonas Quito HD" tvg-logo="http://l3d.us:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| Teleamazonas Quito HD
+http://l3d.us:8080/Kerly/QdBaKywVnc/11042
+#EXTINF:-1 tvg-id="" tvg-name="EC| Teleamazonas Sierra" tvg-logo="http://l3d.us:8080/images/b134c8e730f03944ccb0a1a7fc93008e.png" group-title="TV | Ecuador",EC| Teleamazonas Sierra
+http://l3d.us:8080/Kerly/QdBaKywVnc/176976
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| TVC" tvg-logo="http://l3d.us:8080/images/729c37a1d3319ee21991227b1f84c687.png" group-title="TV | Ecuador",EC| TVC
+http://l3d.us:8080/Kerly/QdBaKywVnc/11044
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| TVC FHD" tvg-logo="http://l3d.us:8080/images/729c37a1d3319ee21991227b1f84c687.png" group-title="TV | Ecuador",EC| TVC FHD
+http://l3d.us:8080/Kerly/QdBaKywVnc/176977
+#EXTINF:-1 tvg-id="ecuadortv.ec" tvg-name="EC| TVC HQ" tvg-logo="http://l3d.us:8080/images/729c37a1d3319ee21991227b1f84c687.png" group-title="TV | Ecuador",EC| TVC HQ
+http://l3d.us:8080/Kerly/QdBaKywVnc/147952
